@@ -103,7 +103,7 @@ class Student
 			cin>>rollno;			
 			
 			token=0;
-			studentbookno[0]='\o';
+			studentbookno[0]="\o";
 			
 			cout<<"\n\n\n\t\t\t\t\t\t Creating Student Record...";
 			sleep(2);
